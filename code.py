@@ -1,5 +1,7 @@
 print("Starting")
 
+# this is the code for layout for atreus keyboard using kmk firmware
+
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
